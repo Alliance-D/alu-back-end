@@ -1,5 +1,6 @@
-
-dule to fetch user information and export TODO list to a CSV file
+#!/usr/bin/python3
+"""
+module to fetch user information and export TODO list to a CSV file
 """
 import csv
 import requests

@@ -1,5 +1,6 @@
-
-dule to fetch user information and export TODO list to a JSON file
+#!/usr/bin/python3
+"""
+module to fetch user information and export TODO list to a JSON file
 """
 import json
 import requests
